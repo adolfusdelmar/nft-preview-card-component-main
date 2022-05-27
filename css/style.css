@@ -62,7 +62,6 @@ main{
         width:327px;
         height:543px;
         border-radius: 8px;
-        
         grid-area: body;
         background-color: var(--card-bg);
         
