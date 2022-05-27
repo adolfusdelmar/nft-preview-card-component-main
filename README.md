@@ -2,6 +2,8 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![nft-component-card](/Screenshot%202022-05-27%20at%2015-16-14%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+
 ## Table of contents
 
 - [Overview](#overview)
