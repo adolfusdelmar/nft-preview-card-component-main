@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![nft-component-card](./Screenshot%202022-05-27%20at%2015-16-14%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+![nft-component-card](/Screenshot%202022-05-27%20at%2015-16-14%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
 
 
 
